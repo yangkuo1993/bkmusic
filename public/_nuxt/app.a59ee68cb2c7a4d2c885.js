@@ -96,7 +96,7 @@ webpackJsonp(
         a = n.n(r),
         o = n("2sCs"),
         i = n.n(o);
-      (i.a.defaults.baseURL = "http://127.0.0.1:3389"),
+      (i.a.defaults.baseURL = "https://ykwork.cn"),
         i.a.interceptors.request.use(
           function(t) {
             return t;
@@ -1926,4 +1926,4 @@ webpackJsonp(
   },
   ["T23V"]
 );
-//# sourceMappingURL=app.586fe30b27423b63104b.js.map
+//# sourceMappingURL=app.a59ee68cb2c7a4d2c885.js.map
